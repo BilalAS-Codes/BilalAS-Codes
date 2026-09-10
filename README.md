@@ -24,7 +24,7 @@ I build production-ready web applications and REST APIs — focused on performan
 
 ## Projects
 
-**[Greenloop](https://github.com/YOUR_GITHUB_USERNAME)** — B2B Waste & Surplus Marketplace · *Saudi Arabia*  
+**[Greenloop]** — B2B Waste & Surplus Marketplace · *Saudi Arabia*  
 `Node.js` `Express.js` `PostgreSQL` `Redis` `AWS S3` `Algolia` `DocuSign` `pg-boss` `Worker Threads`
 
 B2B marketplace for waste and surplus materials built for Buyer, Seller, and Admin roles.
@@ -37,7 +37,7 @@ B2B marketplace for waste and surplus materials built for Buyer, Seller, and Adm
 
 ---
 
-**[Aivaah](https://github.com/YOUR_GITHUB_USERNAME)** — EdTech Cloud Platform  
+**[Aivaah]** — EdTech Cloud Platform  
 `React.js` `Next.js` `Node.js` `Express.js` `PostgreSQL` `Tailwind CSS` `Google APIs` `Web Workers`
 
 Platform teaching students 21st-century digital skills — Docs, Slides, AI, IoT, HTML/CSS, Python.
@@ -48,7 +48,7 @@ Platform teaching students 21st-century digital skills — Docs, Slides, AI, IoT
 
 ---
 
-**[Anganwadi](https://github.com/YOUR_GITHUB_USERNAME)** — Government Health Dashboard · *UP, India*  
+**[Anganwadi]** — Government Health Dashboard · *UP, India*  
 `React.js` `Node.js` `Express.js` `Firebase` `PostgreSQL` `Tailwind CSS` `BLE`
 
 Admin system for monitoring child health metrics across government Anganwadi centres.
