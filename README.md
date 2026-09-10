@@ -91,13 +91,5 @@ Osmania University, Hyderabad
 **B.E. — Computer Science & Engineering**  
 Osmania University, Hyderabad
 
----
-
-## GitHub Stats
-
-![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true)
-
----
 
 > *Open to interesting backend or full-stack roles. Feel free to reach out.*
